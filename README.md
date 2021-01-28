@@ -1,4 +1,4 @@
-# About
+# Learnings from the course
 
 1. Understanding quantitative techniques and algorithms that are based on big data (numerical and textual) or are theoretical models of big systems or optimization that are currently being used widely in business.
 
